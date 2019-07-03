@@ -1,0 +1,36 @@
+body{
+    background-color:#DEE3FF;
+    font-family: "Noto Sans JP";
+}
+
+img, table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+th,td{border: 1px solid black}
+
+h1,h2,h3,h4,h6{
+    text-align:center;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #FFF7DE;
+    padding: 20px;
+    margin-bottom:15px;
+}
